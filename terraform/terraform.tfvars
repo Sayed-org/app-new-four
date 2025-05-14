@@ -1,0 +1,8 @@
+region = "us-east-1"
+customer_name = "Unknown"
+project = "app-new-four"
+repository_url = "https://github.com/Sayed-org/app-new-four.git"
+branch = "master"
+db_password = "app-new-four_password"
+db_username = "postgres"
+db_name = "app-new-four_db"
